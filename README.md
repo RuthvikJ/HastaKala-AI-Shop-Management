@@ -103,7 +103,7 @@ Integrated Claude AI to generate:
 ## 📊 Dashboard Analytics
 
 <p align="center">
-  <img src="screenshots/dashboard.jpeg" width="250"/>
+  <img src="screenshots/dashboard_.jpeg" width="250"/>
 </p>
 
 ---
