@@ -1,0 +1,38 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+gradle.properties
+*.apk
+*.jks
+*.keystore
+# Mac/Windows OS files
+.DS_Store
+Thumbs.db
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio / IntelliJ IDEA 
+*.iws
+
+# NDK
+obj/
+
+# Keystore files (CRITICAL for security)
+*.jks
+*.keystore
+*.key
+*.store
